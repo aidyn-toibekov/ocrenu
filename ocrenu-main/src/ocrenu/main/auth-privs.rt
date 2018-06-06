@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <!--
+        Дерево прав
+    -->
+
+    <auth priv="default">
+        <priv name="default">
+
+        </priv>
+    </auth>
+
+
+</root>

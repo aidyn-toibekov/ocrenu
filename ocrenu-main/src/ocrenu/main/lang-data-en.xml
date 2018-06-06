@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <i translated="false">
+        <s>ID модели</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>url базы</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>База данных</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Вперед</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Вы вышли из системы. Обновите страницу.</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Выпускница ЕНУ им Гумилева</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Дата распознования</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Для изменения порядка должно быть не менее двух записей</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Заголовок</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Загрузить и распознать</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Закрыть</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Закрыть все вкладки</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Закрыть все вкладки, кроме текущей</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Закрыть текущую вкладку</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Значение поля [</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Изменить</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Изменить порядок</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Имя модели</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Информация о базе данных модели</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Информация о версии приложения</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>История работы приложения</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Казахский</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Код</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Коммент</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Комментарий</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Конец</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Конец интервала</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Модель {0} не найдена</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Назад</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Наименование</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Начало</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Начало интервала</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Новая запись</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>О программе...</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Обозначение</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Отмена</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Полное наименование</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Помощь</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Порядковый номер</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Просмотр файла</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Распозанный текст</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Распознование номеров</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Редактирование записи</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Русский</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Система распознования номеров</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Сформировать</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>У вас недостаточно прав для выполнения операции</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Удалить</s>
+        <t></t>
+    </i>
+    <i translated="false">
+        <s>Файл</s>
+        <t></t>
+    </i>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <x-module name="ocrenu.utils">
+        <depend name="jandcode.wax.core"/>
+        <depend name="jandcode.dbm.db.oracle"/>
+    </x-module>
+
+    <x-include path="dblog/index.rt"/>
+    <x-include path="dbinfo/index.rt"/>
+    <x-include path="dbfilestorage/index.rt"/>
+
+    <web>
+        <resource name="ocrenu.utils" package="ocrenu.utils"/>
+    </web>
+
+
+    <web>
+        <resource name="ocrenu.utils.dblog" package="ocrenu.utils.dblog"
+                  filemark="index.rt"/>
+    </web>
+
+</root>

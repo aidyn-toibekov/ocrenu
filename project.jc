@@ -1,0 +1,25 @@
+//
+project.name = "ocrenu"
+project.package_root = "ocrenu"
+//
+include "wax-root-project"
+include "wax-verdb-project"
+include "wax-verdb-project-product"
+//
+modules = [
+        'ocrenu-main',
+        'ocrenu-mssql',
+        'ocrenu-utils',
+        'ocrenu-onlineviewer',
+]
+
+//
+libs = libs + []
+libs_dev = libs_dev + []
+//
+
+wax_distr_models = ["default"]
+wax_distr_masks += [
+        [from: 'tessdata/', mask: '**/*', to: wax_distr_rootdir+"/web/WEB-INF/tessdata/"] ,
+
+]

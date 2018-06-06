@@ -1,0 +1,15 @@
+//
+load '..'
+//
+project.name = "ocrenu-main"
+project.package_root = "ocrenu.main"
+//
+include "wax-module-project"
+include "localize-project"
+//
+libs = libs + ["jandcode-wax-core", "jandcode-wax-verdb","jna",
+               "jai-imageio-core","jul-to-slf4j","slf4j-api","lept4j","tess4j",
+               "ocrenu-mssql", "ocrenu-utils", "ocrenu-onlineviewer", "jandcode-bgtasks"
+]
+libs_dev = libs_dev + []
+//

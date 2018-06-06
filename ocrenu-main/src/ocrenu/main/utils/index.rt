@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <service name="ocrenu.main.utils.ExpAppService"
+             class="ocrenu.main.utils.ExpAppService"/>
+             
+
+
+    <web>
+        <!-- для download файла из хранилища -->
+        <type name="ocrenu.main.utils.FileWrapper">
+            <render name="bin"
+                    class="ocrenu.main.utils.RenderBin_FileWrapper"/>
+        </type>
+    </web>
+
+
+</root>

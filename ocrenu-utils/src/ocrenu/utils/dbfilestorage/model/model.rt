@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <x-include path="*.rt" recursive="true"/>
+
+    <!-- сервис -->
+    <service name="ocrenu.utils.dbfilestorage.DbFileStorageService"
+             class="ocrenu.utils.dbfilestorage.impl.DbFileStorageServiceImpl"/>
+
+</root>

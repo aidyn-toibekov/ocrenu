@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+    <domain name="History" parent="wax.Table" tag.db="true"
+            title="История работы приложения">
+
+        <field name="description" parent="f.htmlText" title="Распозанный текст"/>
+
+        <field name="dte" parent="datetime" title="Дата распознования"/>
+
+        <field name="fileStorage" parent="DbFileStorage/ref"/>
+
+        <field name="fileName" parent="string" size="120" title="Файл"/>
+
+        <field name="cmt" parent="f.htmlText"/>
+
+        <!-- =================== -->
+
+        <dao name="list" class="ocrenu.main.model.history.History_list"/>
+        <dao name="updater" class="ocrenu.main.model.history.History_updater" domain="History.full"/>
+
+    </domain>
+
+    <domain name="History.full" parent="History">
+        <field name="fn" parent="upload" title="Файл"/>
+    </domain>
+
+</root>
